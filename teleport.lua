@@ -39,10 +39,10 @@ TitleCorner.Parent = TitleBar
 local TitleLabel = Instance.new("TextLabel")
 TitleLabel.Size = UDim2.new(1, 0, 1, 0)
 TitleLabel.BackgroundTransparency = 1
-TitleLabel.Text = "⟡ Teleporter"
+TitleLabel.Text = "King Zaphix's ASMR KEYBOARD SCRIPT"
 TitleLabel.TextColor3 = Color3.fromRGB(180, 160, 255)
 TitleLabel.Font = Enum.Font.GothamBold
-TitleLabel.TextSize = 13
+TitleLabel.TextSize = 10
 TitleLabel.Parent = TitleBar
 
 -- Dragging
